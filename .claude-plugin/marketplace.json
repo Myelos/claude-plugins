@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "myelos",
+  "description": "Myelos plugins for Claude",
+  "owner": {
+    "name": "Myelos",
+    "url": "https://github.com/Myelos"
+  },
+  "plugins": [
+    {
+      "name": "servicelog",
+      "displayName": "Servicelog",
+      "source": "./plugins/servicelog",
+      "description": "Motorcycle service log: the servicelog.cloud connector plus skills for logging work, checking what is due, reporting problems and opening the bike overview."
+    }
+  ]
+}

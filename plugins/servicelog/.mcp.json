@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "servicelog": {
+      "type": "http",
+      "url": "https://servicelog.cloud/mcp"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "servicelog",
+  "displayName": "Servicelog",
+  "description": "Keep your motorcycle's service record in servicelog.cloud from Claude.",
+  "author": {
+    "name": "Myelos",
+    "url": "https://servicelog.cloud"
+  },
+  "homepage": "https://servicelog.cloud",
+  "repository": "https://github.com/Myelos/claude-plugins"
+}
